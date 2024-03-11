@@ -19,7 +19,7 @@
 
 ## ⭐ GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iuricode&show_icons=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=harukaina)](https://github.com/harukaina/github-readme-stats)
 
 <!---
 Harukaina/Harukaina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
