@@ -7,8 +7,8 @@
 
 
 
-- 🌱 I’m currently learning **Java, C, JavaScript**/
-- 🌱 Recentemente estou aprendendo **Java, C, JavaScript**/
+- 🌱 I’m currently learning **Java, C, JavaScript, Python**
+- 🌱 Recentemente estou aprendendo **Java, C, JavaScript, Python**
 <br>
 
 - 🔭 In a game process, with platform-style.
