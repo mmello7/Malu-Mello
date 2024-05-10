@@ -5,11 +5,14 @@
 <h3 align="left">Programadora iniciante atrás do próprio caminho, buscando conhecimento e crescimento.</h3>
 
 
-- 🌱 I’m currently learning **Java, C, JavaScript**
-- 🌱 Recentemente estou aprendendo **Java, C, JavaScript**
 
-- 🔭 In a web game process, with platform-style.
-- 🔭 Num processo de um jogo web, com o estilo de plataforma
+<p>- 🌱 I’m currently learning **Java, C, JavaScript**
+- 🌱 Recentemente estou aprendendo **Java, C, JavaScript**</p>
+
+
+<p>- 🔭 In a web game process, with platform-style.
+- 🔭 Num processo de um jogo web, com o estilo de plataforma</p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
