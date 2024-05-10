@@ -8,11 +8,11 @@
 
 - 🌱 I’m currently learning **Java, C, JavaScript**/
 - 🌱 Recentemente estou aprendendo **Java, C, JavaScript**/
+<br>
 
-
-- 🔭 In a web game process, with platform-style./
-- 🔭 Num processo de um jogo web, com o estilo de plataforma/
-
+- 🔭 In a web game process, with platform-style.
+- 🔭 Num processo de um jogo web, com o estilo de plataforma
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
