@@ -6,12 +6,12 @@
 
 
 
-<p>- 🌱 I’m currently learning **Java, C, JavaScript**
-- 🌱 Recentemente estou aprendendo **Java, C, JavaScript**</p>
+- 🌱 I’m currently learning **Java, C, JavaScript**/
+- 🌱 Recentemente estou aprendendo **Java, C, JavaScript**/
 
 
-<p>- 🔭 In a web game process, with platform-style.
-- 🔭 Num processo de um jogo web, com o estilo de plataforma</p>
+- 🔭 In a web game process, with platform-style./
+- 🔭 Num processo de um jogo web, com o estilo de plataforma/
 
 
 <h3 align="left">Connect with me:</h3>
