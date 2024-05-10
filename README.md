@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Maria Luiza</h1>
 <br>
 
-<h3 align="left">Beginner programmer forging her own path, seeking knowledge and growth.</h3>
+<h3 align="left">Beginner programmer forging my own path, seeking knowledge and growth.</h3>
 <h3 align="left">Programadora iniciante atrás do próprio caminho, buscando conhecimento e crescimento.</h3>
 
 
