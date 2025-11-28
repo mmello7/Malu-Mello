@@ -38,7 +38,7 @@ I do not limit myself to a single stack. These are the languages and tools I use
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maria-luiza-mello)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:malumelloms@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=laravel&logoColor=white)]([YOUR PORTFOLIO WEBSITE LINK])
+
 
 
 
