@@ -2,24 +2,45 @@
 <h1 align="center">Hi 👋, I'm Maria Luiza</h1>
 <br>
 
-<h3 align="left">Beginner programmer forging my own path, seeking knowledge and growth.</h3>
-<h3 align="left">Programadora iniciante atrás do próprio caminho, buscando conhecimento e crescimento.</h3>
+### 💡 Polyglot Developer & Versatile Software Engineer
 
 
+## 🛠️ My Approach and Expertise
 
-- 🌱 I’m currently learning **Java, C, JavaScript, Python**
-- 🌱 Recentemente estou aprendendo **Java, C, JavaScript, Python**
-<br>
+My strength lies in my **adaptability** and my ability to seamlessly transition between different development domains, always choosing the most effective solution for the task.
 
-- 🔭 In a game process, with platform-style.
-- 🔭 Num processo de um jogo, com o estilo de plataforma
-<br>
+* **Full-Stack Capability:** I develop robust applications across the board—from responsive Front-end interfaces to powerful Back-end APIs.
+* **Mobile Development:** Experienced in creating [Native/Hybrid] applications for both iOS and Android platforms.
+* **Foundational Knowledge:** I deeply value languages like **C** and **Java** as they provide the core understanding needed for high-performance systems and complex logic.
+* **Currently Exploring:** I'm expanding my knowledge in **[A new technology or topic, e.g., cloud architecture with AWS/Azure or a specific mobile framework]**.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/maria-luiza-mello" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maria-luiza-mello" height="30" width="40" /></a>
-<a href="https://instagram.com/m.mello7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m.mello7" height="30" width="40" /></a>
+  ## 🧠 Core Technologies & Toolkit
+
+I do not limit myself to a single stack. These are the languages and tools I use to bring ideas to life:
+
+| Type | Languages and Frameworks |
+| :--- | :--- |
+| **Foundational** | [![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)](C) [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](Java) |
+| **Web Back-end** | [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](Python) [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](PHP) |
+| **Web Front-end** | [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](JavaScript) [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](HTML5) [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](CSS3) |
+| **Databases** | [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](SQL) |
+| **DevOps & Tools** | [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](Git) [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](Docker) |
+
+## 📈 GitHub Statistics
+
+<p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mmello7&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmello7&layout=compact&langs_count=6&theme=vue"/>
 </p>
+
+
+## ✉️ Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maria-luiza-mello)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:malumelloms@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=laravel&logoColor=white)]([YOUR PORTFOLIO WEBSITE LINK])
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
