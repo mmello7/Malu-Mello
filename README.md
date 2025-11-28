@@ -28,14 +28,6 @@ I do not limit myself to a single stack. These are the languages and tools I use
 | **DevOps & Tools** | [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](Git) [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](Docker) |
 | **Design & UX** | [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](Figma) |
 
-## 📈 GitHub Statistics
-
-<p align="center">
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mmello7&theme=dark&hide_border=true)](https://git.io/streak-stats)
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=mmello7&theme=tokyonight&hide_border=true" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mmello7&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmello7&layout=compact&langs_count=6&theme=vue"/>
-</p>
 
 
 ## ✉️ Connect With Me
